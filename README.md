@@ -1,7 +1,8 @@
 # EOG React Assessment
 
+## Tech Stack 
 
-## Tech Stack - React, Redux, Graphql, Recharts, URQL, Typescript, Pondjs
+- React, Redux, Graphql, Recharts, URQL, Typescript, Pondjs
 
 ## Steps to run the assignment:
 1. Open Terminal 
