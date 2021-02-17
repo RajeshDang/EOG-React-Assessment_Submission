@@ -4,7 +4,8 @@
 
 - React, Redux, Graphql, Recharts, URQL, Typescript, Pondjs
 
-## Steps to run the assignment:
+## Steps to run
+
 1. Open Terminal 
 2. Run command:  `npm install`
 3. Run command: `npm run start` 
